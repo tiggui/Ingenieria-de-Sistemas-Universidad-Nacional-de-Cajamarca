@@ -53,13 +53,13 @@
 * [Faztweb.com](https://www.faztweb.com "Custom title")
 ## Año 4
 ### Ciclo VII
-* [Faztweb.com](https://www.faztweb.com "Custom title")
-* [Faztweb.com](https://www.faztweb.com "Custom title")
-* [Faztweb.com](https://www.faztweb.com "Custom title")
-* [Faztweb.com](https://www.faztweb.com "Custom title")
-* [Faztweb.com](https://www.faztweb.com "Custom title")
-* [Faztweb.com](https://www.faztweb.com "Custom title")
-* [Faztweb.com](https://www.faztweb.com "Custom title")
+* [Dinámica de Sistemas](https://github.com/tiggui/Ingenieria-de-Sistemas-Universidad-Nacional-de-Cajamarca/tree/main/A%C3%B1o%204/7-%20Din%C3%A1mica%20de%20Sistemas "Custom title")
+* [Gestión de Proyectos de Sistemas I](https://github.com/tiggui/Ingenieria-de-Sistemas-Universidad-Nacional-de-Cajamarca/tree/main/A%C3%B1o%204/7-%20Gesti%C3%B3n%20de%20Proyectos%20de%20Sistemas%20I  "Custom title")
+* [Ingeniería de Software II](https://github.com/tiggui/Ingenieria-de-Sistemas-Universidad-Nacional-de-Cajamarca/tree/main/A%C3%B1o%204/7-%20Ingenier%C3%ADa%20de%20Software%20II "Custom title")
+* [Inglés Stem I](https://github.com/tiggui/Ingenieria-de-Sistemas-Universidad-Nacional-de-Cajamarca/tree/main/A%C3%B1o%204/7-%20Ingl%C3%A9s%20Stem%20I "Custom title")
+* [Marketing](https://github.com/tiggui/Ingenieria-de-Sistemas-Universidad-Nacional-de-Cajamarca/tree/main/A%C3%B1o%204/7-%20Marketing "Custom title")
+* [Planeamiento de Sistemas de Información II](https://github.com/tiggui/Ingenieria-de-Sistemas-Universidad-Nacional-de-Cajamarca/tree/main/A%C3%B1o%204/7-%20Planeamiento%20de%20Sistemas%20de%20Informaci%C3%B3n%20II  "Custom title")
+* [Redes I](https://github.com/tiggui/Ingenieria-de-Sistemas-Universidad-Nacional-de-Cajamarca/tree/main/A%C3%B1o%204/7-%20Redes%20I "Custom title")
 ### Ciclo VIII
 * [Faztweb.com](https://www.faztweb.com "Custom title")
 * [Faztweb.com](https://www.faztweb.com "Custom title")
