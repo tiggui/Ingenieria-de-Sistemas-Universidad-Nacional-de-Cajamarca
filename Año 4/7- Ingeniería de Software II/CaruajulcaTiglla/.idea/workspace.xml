@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2eda8662-f713-46a2-90d3-56e428621bc3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Caruajulca/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Caruajulca/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Caruajulca/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Caruajulca/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Caruajulca/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ejercicios/GestorMecanicos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ejercicios/Mecanico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/ejercicios/MecanicoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejemplo2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejemplo2/.idea/Ejemplo2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejemplo2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejemplo2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejemplo2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrimerosEjercicios/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrimerosEjercicios/src/main/java/org/ejercicios/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrimerosEjercicios/src/test/java/org/ejercicios/calculadoraTestJUnit4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrimerosEjercicios/src/test/java/org/ejercicios/calculadoraTestJUnit5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrimerosEjercicios.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrimerosEjercicios/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PrimerosEjercicios/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrimerosEjercicios/src/main/java/org/ejercicios/Palindromo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrimerosEjercicios/src/main/java/org/ejercicios/Romanos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrimerosEjercicios/src/main/java/org/ejercicios/validarPassword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrimerosEjercicios/src/test/java/org/ejercicios/ListaValidaTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrimerosEjercicios/src/test/java/org/ejercicios/palindromoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrimerosEjercicios/src/test/java/org/ejercicios/romanosTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrimerosEjercicios/src/test/java/org/ejercicios/validarPasswordTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2yQHizn7aJBAOVoppT1M8AItutn" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.MecanicoTest.testActualizarMecanico.executor": "Run",
+    "JUnit.MecanicoTest.testAgregarMecanico.executor": "Run",
+    "JUnit.MecanicoTest.testAgregarProducto.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Alex/Desktop/Cursos/Ingenieria-de-Sistemas-Universidad-Nacional-de-Cajamarca/Año 4/7- Ingeniería de Software II/CaruajulcaTiglla/src/main/java/org/ejercicios/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.MecanicoTest.testActualizarMecanico">
+    <configuration name="MecanicoTest.testActualizarMecanico" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CaruajulcaTiglla" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ejercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.ejercicios" />
+      <option name="MAIN_CLASS_NAME" value="org.ejercicios.MecanicoTest" />
+      <option name="METHOD_NAME" value="testActualizarMecanico" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MecanicoTest.testAgregarMecanico" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CaruajulcaTiglla" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ejercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.ejercicios" />
+      <option name="MAIN_CLASS_NAME" value="org.ejercicios.MecanicoTest" />
+      <option name="METHOD_NAME" value="testAgregarMecanico" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MecanicoTest.testAgregarProducto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CaruajulcaTiglla" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ejercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.ejercicios" />
+      <option name="MAIN_CLASS_NAME" value="org.ejercicios.MecanicoTest" />
+      <option name="METHOD_NAME" value="testAgregarProducto" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MecanicoTest.testActualizarMecanico" />
+        <item itemvalue="JUnit.MecanicoTest.testAgregarMecanico" />
+        <item itemvalue="JUnit.MecanicoTest.testAgregarProducto" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2eda8662-f713-46a2-90d3-56e428621bc3" name="Changes" comment="" />
+      <created>1749760007891</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749760007891</updated>
+      <workItem from="1749760008940" duration="5346000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ejercicios/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
